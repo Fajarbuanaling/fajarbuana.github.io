@@ -1,0 +1,17 @@
+body {
+  color: #000000;
+  background: #ffffff;
+  font-family: 'open sans', sans-serif;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: rgb(212, 229, 181);
+}
+#project {
+  background-color: rgb(212, 229, 181);
+}
+.contact {
+  position: relative;
+  width: 100%;
+  padding: 45px 0 15px 0;
+}
